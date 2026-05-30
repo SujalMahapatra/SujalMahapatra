@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Building intelligent AI applications with GenAI, Machine Learning, Cloud, and Full-Stack Development. Open-source contributor and lifelong learne
+Building intelligent AI applications with GenAI, Machine Learning, Cloud, and Full-Stack Development. Open-source contributor and lifelong learner.
 
 
 ## 🌐 Socials:
