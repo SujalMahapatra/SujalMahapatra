@@ -29,6 +29,12 @@ Building AI-powered solutions, multi-agent systems, and real-world applications 
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SujalMahapatra&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -158,11 +164,26 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 
 ---
 
+## 🏅 Achievements
+
+🚀 15+ Open Source Pull Requests Merged
+
+🌟 Contributor in GSSoC 2026
+
+🏆 Top 10 Campus Ambassador – GSSoC 2025
+
+🤖 Built Multiple Multi-Agent AI Applications
+
+☁️ AWS & Oracle AI Certified
+
+---
+
 ## 📊 GitHub Analytics
 
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -170,6 +191,13 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 </p>
 
 ---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujalMahapatra&theme=tokyo-night)
+
+---
+
 
 ## 🤝 Connect With Me
 
