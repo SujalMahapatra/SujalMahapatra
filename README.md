@@ -1,34 +1,185 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sujal Mahapatra</h1>
 
-<!--
-**SujalMahapatra/SujalMahapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Engineer | Generative AI Developer | Open Source Contributor
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Building intelligent AI applications with Generative AI, Machine Learning, Cloud, and Full-Stack Development. Open-source contributor and lifelong learner.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujalmahapatra07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalmahapatra@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SujalMahapatra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SujalMahapatra&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SujalMahapatra&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+Building AI-powered solutions, multi-agent systems, and real-world applications with Cloud & Open Source.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SujalMahapatra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 B.Tech Graduate from Silicon University
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Generative AI, and Multi-Agent Systems
+
+🌱 Currently exploring:
+- AI Agents & Agentic Workflows
+- RAG Applications
+- Cloud AI Platforms
+- LLM Engineering
+- MLOps
+
+💡 Love building practical AI solutions that solve real-world problems.
+
+🏆 Open Source Contributor | GSSoC'26 Contributor
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Generative AI
+- Gemini API
+- Watsonx
+- AI Agents
+- RAG Systems
+- Prompt Engineering
+- MCP
+- Antigravity SDK
+
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 CareerGensis
+Multi-Agent AI Career Development Platform designed to help users navigate their professional journey.
+
+**Features**
+- Resume Intelligence Agent
+- Skill Gap Analysis
+- Personalized Learning Roadmaps
+- AI Interview Preparation
+- Multi-Agent Coordination Architecture
+- MCP Integration
+
+**Tech Stack**
+Python • FastAPI • Gemini • React • Multi-Agent Systems
+
+---
+
+### 🏙️ CivicMind AI
+AI-Powered Community Decision Intelligence Platform.
+
+**Features**
+- Community Issue Analysis
+- Predictive Insights
+- Recommendation Engine
+- Multi-Domain Decision Support
+- Data-Driven Governance Assistance
+
+**Domains**
+Public Safety • Healthcare • Education • Sustainability
+
+**Tech Stack**
+Python • AI Agents • RAG • Analytics • Gemini
+
+---
+
+### 🥗 NutriMind AI
+Personalized AI Nutrition Assistant providing intelligent dietary recommendations.
+
+---
+
+### 🏏 IPL Win Predictor
+Machine Learning solution using Random Forest, CatBoost, and XGBoost models to predict IPL match outcomes.
+
+---
+
+## 🌟 Open Source Contributions
+
+### GSSoC 2026 Contributor
+- Active contributor across multiple repositories
+- Bug fixes, testing, validation and feature enhancements
+- Collaborated with maintainers and community contributors
+
+### DevPath
+- Fixed duplicate project ID validation issues
+- Improved dataset integrity and testing
+- Successfully merged pull requests
+
+### UltimateHealth
+- Added unit test coverage for analytics hooks
+- Improved React Query testing reliability
+- Contributed quality assurance improvements
+
+### Pathfinder AI
+- Added relocation analysis action test coverage
+- Covered authentication, validation and AI failure scenarios
+- Strengthened regression protection through automated tests
+
+### BizInsight AI
+- Resolved merge conflicts in PDF generation service
+- Improved report generation maintainability
+- Contributed code quality improvements
+
+---
+
+## 🏆 Contribution Highlights
+
+✅ Multiple merged pull requests across open-source repositories
+
+✅ Contributor in GSSoC 2026
+
+✅ Contributor in Open Source Connect India
+
+✅ Top 10 Campus Ambassador Recognition(GSSoc'25)
+
+✅ Gold – The Trailblazer tag as Campus Ambassador (GSSoC'25)
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalMahapatra&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: www.linkedin.com/in/sujal-mahapatra
+
+📧 Email: sujalmahapatra@gmail.com
+
+🌐 GitHub: https://github.com/SujalMahapatra
+
+---
+
+⭐ If you like my work, consider starring my repositories!
