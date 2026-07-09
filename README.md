@@ -177,6 +177,11 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 ☁️ AWS & Oracle AI Certified
 
 ---
+## Github Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight"/>
+</p>
 
 ## 📈 Contribution Activity
 
