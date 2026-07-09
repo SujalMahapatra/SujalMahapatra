@@ -12,7 +12,7 @@ Building AI-powered solutions, multi-agent systems, and real-world applications 
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Graduate from Silicon University
+🎓 B.Tech Final Year Student at Gandhi Engineering College
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Generative AI, and Multi-Agent Systems
 
@@ -156,18 +156,17 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 
 ✅ Gold – The Trailblazer tag as Campus Ambassador (GSSoC'25)
 
-## 📈 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SujalMahapatra&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalMahapatra&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalMahapatra&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=SujalMahapatra&theme=tokyonight"/>
 </p>
 
 ---
