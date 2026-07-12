@@ -110,7 +110,11 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 
 ☁️ AWS & Oracle AI Certified
 
+---
 
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujalMahapatra&theme=tokyo-night)
 
 
 ## 🏆 GitHub Trophies
@@ -119,11 +123,12 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SujalMahapatra&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://komarev.com/ghpvc/?username=SujalMahapatra&icon=0&color=13)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SujalMahapatra&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 
 
