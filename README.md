@@ -119,12 +119,6 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SujalMahapatra&label=Profile%20Views&color=0e75b6&style=flat" />
