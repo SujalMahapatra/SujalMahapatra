@@ -91,11 +91,10 @@ Machine Learning solution using Random Forest, CatBoost, and XGBoost models to p
 
 ✅ Contributor in GSSoC 2026
 
-✅ Contributor in Open Source Connect India
+✅ Contributor in Open Source Connect India(2025)
 
 ✅ Top 10 Campus Ambassador Recognition(GSSoc'25)
 
-✅ Gold – The Trailblazer tag as Campus Ambassador (GSSoC'25)
 
 ---
 
